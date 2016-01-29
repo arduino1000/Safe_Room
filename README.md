@@ -1,8 +1,11 @@
 # Safe_Room
 
-The idea for the "Safe Room" arose when I constantly forgot the lights go on and the house dungeon .. Just as I leave the fireplace unattended always ..
+Safe_Room is an idea to make life a little safer :)
 
-So I opted for a "system" which to me indicates whether the fireplace is still "on", or whether the light is still burning in one room.
+-Flame detect Senors
+-Light Senors
+-Motion Senors
+
 
 ToDo :
 
